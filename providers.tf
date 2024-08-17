@@ -1,5 +1,5 @@
 provider "google" {
-  project = ""
-  region  = "us-west1"
-  zone    = "us-west1-a"
+  project = "qwiklabs-gcp-03-92c6ad7459ca"
+  region  = "us-east1"
+  zone    = "us-east1-a"
 }
